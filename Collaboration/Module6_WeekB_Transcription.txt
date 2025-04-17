@@ -1,0 +1,166 @@
+
+What's up, gang? Welcome back. Glad to have everyone here. Yes. Good to be there.
+
+Good to be there. Very fair. Let's see. Over this morning and I think a little bit last night, I added my overview of the services analyzed for my three. I wrote a bit in the key finding comparison for, Garmin.
+
+Just have one. And then for the regulatory compliance assessment, I put all I thought I put all three, but I only put Garmin and Strava, so I'm gonna add Reddit. And that's mostly what I put together for the paper. Oh, let me Looks all good to me. Abby, did mine happen to look okay to you too?
+
+Because I'm I I don't think I've been in sync with this assignment yet. I know we did the spreadsheet, and then I know we did the more more or less the narrative. Although, it really wasn't a narrative. It was just kind of a a an index. No.
+
+So we're talking about the paper? Oh, yeah. Sorry. I just wanna end start talking about the paper. Yeah.
+
+Well, I mean It looks like you still gotta write your sections on it. Do you need the link again? Or No. No. I've got you're talking about to the repo?
+
+No. I'm fine with the repo. I'm looking at the assignment now. What am I missing? I I just like I said, I'm I'm struggling with this assignment.
+
+I think so for deliverables, at least, as far as I know, for individual contributions, you'll have, at least via the GitHub, you'll have submitted the three services that you've decided to get the either privacy policies on or EULA's, and you'll upload those on the, agreements folder. Yep. We can do that. And then inside your specific analysis folder, you'll have the, the general, like, summary write up of those three specific ones as well, like, the overview and then, like, the regional things of, like, The US privacy laws and the GDPR laws. And then you'll also have the I believe it was the individual service inventory or whatever he called.
+
+That's the one where we just aggregate, like, eight to 10 different services that we've that we've personally agreed to, and then outlined when and how. Yeah. Okay. So And then I I yeah. I've got the agreements there.
+
+I I sent you the spreadsheet with the index or the, the pseudo analysis, let's just say. And then in the text documents, I've got to compare agreements, compare compare comparative analysis. Done that. I don't know. I'll I'll just look at I'll I'll just look at yours, Steven, and see what I've missed.
+
+For some reason, I think it Yeah. I've gotten the, comparison matrix uploaded, but that, like, combined all of our stuff together so that we have a a big comparison matrix up there. Oh, I I see what I'm missing here. I I I've I've got it. I've got final report, five pages, overview of services analyzed, key findings from the comparison, which I have already done, regulatory compliant.
+
+Okay. Alright. I'll I'll I'll get that done tonight. I'm sorry. I kinda thought I was done, but clearly, I've missed it.
+
+Alright. So the three agreements, the CSV that was sent, the summary document, and then the list. Those are the four things we have to get done, plus the individual sort of administration that we do. Well, could you repeat could you repeat the things we needed to get done? You said Well, let me just tell you what I think.
+
+I'm probably wrong. The three agreements in text doc in a text document. Right? The CSV analysis that we did on those three, which we sent to Steven, like, last week. The the Word document, which is sort of it's under final report right there.
+
+Number two, final report. And then the we need the individual services to tend the list, and then we need that personal statement of contribution that he he wants us to do. Those are the things. Oh, that sounds about right. Okay.
+
+Alright. And if I get if I get my summary document revised, right after this call, I'm gonna put anybody on the right spot. No. But I think you're forgetting the paper part because we all you basically have to write your section of the paper. Okay.
+
+That is what I'm missing, and I do not see it in. I submitted a Word document, but that's not what you're talking about. I'm I'm really struggling here. I'm sorry. Oh, this is the, like, actual report that like, this is the collaborative report that were that's, like, linked in the repo for the paper.
+
+Okay. I'll go find it. I'll I'll go see what you guys have done. Yeah. Also, Abby, did you say that you saw my Reddit thing in the regulatory compliance assessment part?
+
+Yeah. I had read it real quick. That's weird because I I don't see it. Oh, no. Sorry.
+
+I had read your Garmin and Strava. Oh. I haven't seen it. Okay. Okay.
+
+Got you. Reddit was the one I I could've sworn I had it this morning, but I I also wrote it at, like, 07:45AM, so I was probably not fully awake. Real. All good. Let me find that real quick.
+
+I guess I didn't write it, did I? I'm tweaking, bro. Holy. Abby, while he's doing that, talk talk me through this again. I've got my I'm looking in the repo now.
+
+I've got my agreements in the agreements folder. Yes. I in the analysis folder, I Okay. So in analysis I I'm just I'm just gonna type it out so you have a written thing to look at. So in the analysis, you're gonna have, like, your eight to 10 services and just, like, a list.
+
+Yeah. Doesn't need to be fancy. And then summaries of services that you And I've got that too, but maybe it's not there. Okay. I've already done a summary of the services.
+
+I've got that in the word doc. I just want to show you where I parked it. So I'll find that and get it in the analysis folder. Maybe it's privacy agreement summary dot doc. Is that mine?
+
+Anyway, I I'll I'll get it in that folder. Alright. So, I've got the agreements in the agreement folder and the analysis folder. I will get that summary document and my list. Meetings go in the collaboration folders, so nothing specific in there.
+
+And then our comparison matrix is in the comparison folder. Does that sound right? And Steven already did that. Yeah. That's right.
+
+Okay. Yeah. We're only having one comparison matrix and I put I I collated everything for us. K. Alright.
+
+Yeah. That's right. Okay. Okay. I I should be good.
+
+I I've done the the document for some reason. Wait. Quick question. For the analysis, is that where we put our individual matrices? You can if you want to.
+
+I left it out because it's all representative Steven's big one. It's more just like No talking about in the GitHub. Yeah. Okay. Yeah.
+
+I think we I mean, as far as I remember, I think we only needed one. Let me Yeah. Reread his requirements again just in case. No. The summaries in the, like, analysis section, like, mine was literally just I asked chat g p t summarize this, and I didn't put any limit on how long it was, and I copy pasted three of them.
+
+Cool. Okay. Yeah. Yeah. That's what I did that's what I did too, Abby, for some reason.
+
+But you can't see that and tip it under analysis. Correct? You don't see that document? I can see privacy agreement summary dot docs. And that's that's alright.
+
+Do you mind taking a look at that and seeing if that meets it? Because that's what I I took a look at yours, and I just did the same thing for mine, honestly. So I don't let me see. I'm gonna go into my hard drive. Yeah.
+
+That looks all good. Okay. So it looks like I've done everything then. Correct? You need to write your sections on the paper.
+
+On, like, the overall final part. Coming. And where is that? That's what I'm missing. And that's where I'm I sent you a link.
+
+It's also Oh, the final page. The I'm sorry. Yeah. Okay. I'm sorry.
+
+We've been doing that every single week. I just completely forgot about it. Okay. I'm acting like a oh, yeah. I see it.
+
+SharePoint. I will write my sections on SharePoint tonight. Now I'm clear. Thank you. Sorry about that.
+
+I got it. No. I'm good. Glad glad we could get there. Yeah.
+
+I know. Right? Also, like, a third third grader or something. No. It is it's it's that point of the it's that point of the semester.
+
+Yeah. I was gonna say finals month is hard. Yeah. In terms of lesson learned oh. Right.
+
+In terms of lessons learned, I honestly don't have much to add on that section. Same with recommendations with for improvement because I think, well specifically for recommendations for improvement, I don't have much to add because I think what Abby wrote, Abby if you did write this, it's also whoever wrote recommendations for improvement, I think Abby did, I think it's kind of spot on to what I would have written for that section. Oh, okay. Yeah. I feel like it's I think it gets to the point across.
+
+Yeah. You're anyone's welcome to add to it if they want to, but, like, we've already hit the page count we needed to. Feel free to add if you need to, but I don't think anyone needs to on those kind of sections. Okay. Cool.
+
+Mostly just the, like, overview for, like, what things we looked at and then just saying whether a thing fell within, like, GDPR or The US stuff. I think that's more than good enough. Yeah. That was wonderful. I'm just gonna say that too.
+
+I added a I think I just I forget that this is recording, so I'm I'm gonna be nice and not use harsh language, but I just applaud that last paragraph. If you read this, doctor Wallen, you didn't hear that. I mean, like, it feels like half of the words I wrote for this assignment were not written by me. So I mean Sure. I will be taking the bullet tomorrow and presenting this information.
+
+So tomorrow during my lunch, I will be reading over this paper again and getting something together. Period. And we appreciate it. Yes. It is it is about time I I stepped up to the plate again.
+
+Wait a minute. You've got a bunch. I'll do the first one and the last one. Mhmm. Because I I assume we're probably not really gonna be doing much or, like I don't know what he's gonna have us be doing for the final one.
+
+No. So it is we are gonna have some kind of project, but he did say last week that it will be a shortened one. I don't know if gonna be, like, a week long. Right? I don't know if it's a week or if it's just, like, a week and a half.
+
+Oh my god. I forgot that we have the week twelve quiz due again tonight. I need a month for you to do at this time. Oh my god. So I'm so sick of this.
+
+I need to read the individual. Oh my god. You're so right, dude. Thank you so much. Yeah.
+
+We have to do yeah. I I'm so exhausted. I've literally driven from Antioch to Murfreesboro and then from Murfreesboro to Nashville and then from Nashville to Murfreesboro. Bro. All this all all the beginning of the day.
+
+And I've been up since 05:30. I'm so tired. Oh. Cannot remember we have this quiz. I feel that so much, dude.
+
+Why did he give us a LinkedIn article? Is it a LinkedIn? Is it how many articles is it? There's only three. It's just three, but the second one's really long.
+
+No. The LinkedIn article is really Like, I vaguely scanned these things, like, took maybe two seconds on each article, and I got seven out of eight on the quiz. Oh, sick. Okay. Yeah.
+
+Okay. That's Yeah. That's promising. It's gonna talk about it's gonna talk about anonymization and aggregation. I mean, you know, I I think Abby's right.
+
+I haven't taken the quiz yet, but I've read them. I actually have read them twice, but the fact is I'm just gonna get my points and move on. I'm not really trying to learn it in this you know? Okay. This one okay.
+
+It's not looking too bad. I have faith. I just need to know It really isn't. It doesn't look bad. Again, doctor Wallens.
+
+Okay. The again, these don't look bad. I just have to eat dinner and, like, really lock in for, like, a good hour and a half, and that should be fine. You won't take that long, Miracle. I mean, unless you're just, like, making extensive notes.
+
+I I'm I'm telling you. I'm not the one to make extensive notes, but whenever I read, in order for me to, like, have some some suggestion of understanding, I just have to, like, really annotate it just to get, like, those just to make sure I'm actually, like, reading it for some kind of understanding. Yeah. But I hear you. Again, it's not You do you, but it really is it's one of the easier sections of material.
+
+Yeah. It doesn't look it does not look hard at all. I think it should be fine. The the LinkedIn article is kinda crazy though. But go him.
+
+Right after this call, I'll, do all, like, the transcriptions and summaries and have those uploaded to the GitHub, but who wants to take care of final submissions? Because I don't know how long you'll be taking, Charles. I'm gonna I could could I could somebody else kindly do this this week? I I I will take fifteen minutes for the paper here. As a matter of fact, I've done one of my three.
+
+Would would somebody maybe hasn't done it lately might submit it? Steven, you do it all. I'll do it. I'll get it all in. I was I was gonna say, I don't mind if if I mean, like, if you get your paper done within the next, like, hour or so, I don't mind submitting it because I still gotta take care of all the transcription stuff and then uploading it to GitHub as well as, like, the individual summary and the quiz.
+
+So I'll still be up for a bit longer. Yeah. I I I'm gonna work on it right now or as soon as we're off. I'm working on it as we're speaking. I don't think it'll just gonna take me long, and, I'll I'll we'll coordinate.
+
+I'll just probably plan on just putting everything in there. What I would like for you to do, because I don't trust myself today. Obviously, I'm, is just double check it. Just say you know? Just take a look at it.
+
+We can I can check up behind you, Charles? Just let me know when you submit it. Okay. I'll do that. Thank you.
+
+I appreciate it. I don't mind submitting it. I just don't really trust myself for some reason today. It's not if, I mean, if it makes you feel better, I really don't mind taking it. Well, if I yeah.
+
+I no. It does make me feel better. It makes me feel better that somebody will double check it. That's really all I'm I'm not Yeah. I'll check yeah.
+
+Just message Charles, and I'll shake up behind you. I'm gonna be Okay. As like Steven, I'm gonna be up still doing my quiz and other stuff as well. Okay. Perfect.
+
+Thank you so much. Mhmm. Abby, you seem to be, like, the most punctual student out of all of us. I feel like you always get your work done before anybody seem to be even close. Like, I can't stand leaving things until, like, the day before.
+
+Like, it just gives me so much more anxiety than getting it done a week in advance. But I'm like, I know no one I know normal people don't act like that, and it's a knee problem. So I mean, shit. I also get anxiety, but I can't help it. Yeah.
+
+Yeah. You were just a lot more strong willed compared to us. I know. We're weak. Entirely like, as soon as it hits my head, I have to do it then.
+
+Otherwise, it never gets done. So Yeah. I I try to be on top of it as much as possible, but I get hit with so much so quickly where it's just like, I will be very proactive, write it down. Like, I won't, like, note. It's not like, oh, it doesn't exist.
+
+It exists. But just with the volume of things I have to do, it's just like, okay. It's just a matter of when, essentially. Yeah. Alright.
+
+Is there anything else for us to talk about? I think that's all. I feel good about what we have. Same here. Yeah.
+
+It's looking good. Yeah. Did anyone else see that he took points off on the last project because we didn't have grass? Yeah. That one was my bad because I've I wrote I was the one that wrote the majority of that report, so sorry about that, y'all.
+
+I didn't even think about visualizations. Like, you didn't list graphs as a requirement, but, apparently, that's what you're graded on. I guess it's a a quote, unquote standard, but who knows? But, hey, we missed it. We we we we missed it this time.
+
+We learned how to move on. To be fair, 52 out of 60 is the worst group project grade we've got. So Yeah. It's not terrible at all. It's not it's not breaking anything for us for the most part.
+
+No. It it mostly just made me laugh because it made me really wanna go and add a bunch of random graphs to this paper. No. Actually, Sam. Just make a make a report of all graphs out of spite.
+
+That would be so funny. Oh my gosh. That would be so funny. Maybe I I have a potential idea for the next group project, but I'll I'll I'll wait on that. I'm not gonna say anything right now.
+
+Oh, okay. Okay. I wanna see what the requirements are for for first. Okay. I've got some stuff in the paper.
+
+I'm gonna take some time and edit it over the next fifteen minutes or so, and then I will start putting some stuff in the submission folders. Anything else? I'll go I'll go ahead and stop the recording.

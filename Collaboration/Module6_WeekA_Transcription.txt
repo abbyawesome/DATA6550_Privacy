@@ -1,0 +1,110 @@
+
+Alrighty. What's up, gang? Hello. Hello, everybody. Thanks for bearing with my noise, challenges.
+
+No worries. What's up? I feel like the class rebooted every day. Supposed to do. Gotta remind me.
+
+Never mind. Go ahead. No. Wait. What's up?
+
+I I was just being stupid. Just go ahead. You're good. I assume what we wanted to do before this meeting was, get the 10 ish agreements we've signed and then pick the best three and then discuss them today, question mark? That sounds about right.
+
+I I really couldn't find any good ones because I feel like all of them were the ones that everyone signs. So I just looked at, like, some in EdTech. Because since that's, like, my education is my little forte. Remember that all of us need to pick three each. Yeah.
+
+I was gonna say I'm I I found 10 in general. I just looked through the apps on my phone. And, I mean, I can just list the three that I was planning on working with and see if anybody else happens to go inside with them, if that sounds good. That'd be fine because I didn't go through 10. I just picked I picked three myself as well.
+
+Yeah. I only got, like, two ish. Got you. I plan on doing them over my Garmin Connect, Braava, and then Reddit. Reddit is interesting.
+
+Yeah. Pretty big social media platform, so I feel like they've got a pretty and I noticed they also have, like, actual section where UK users. So I feel like that'll be a very good comparison of, like, US regulation and then the GDPR regulations. Yeah. Alright.
+
+So I'm doing go ahead, Abby. Oh, sorry. The ones I had picked was, Siemens Health and Ears because that's where I used to work, their, like, website privacy policy. Vanderbilt for health stuff, and then, ProctorU because I thought it'd be funny. Yes.
+
+That is so funny. I love that. That's I I ProctorU. I saw you. I was Yeah.
+
+That's great. I saw you upload that on the GitHub, and I was like, oh my god. Yeah. That's fine. For mine, I oh.
+
+Yeah. That is that is so funny. I that is great, Abby. I no notes. That's great.
+
+For mine, I chose d two l because why not? And and then I chose a website called eResLife. That's what we use for for all of our housing and residence management here on campus in in the housing in housing and residence life department, since we collect so much from students and also FERPA as well. I chose both of these because of how, like, how do they fall into got how do they fall in line with FERPA, essentially. Alright.
+
+So, mine, I'm using my, Google Gemini. My the the the Google services platform. It's more than just Gemini. It's the whole Google, cloud platform. I forget what it's called.
+
+I'll I'll get the name. I'm I'm looking at those that agreement. And very interestingly, I don't know if this is cheating, so I'm just gonna say it here. I I had an AI review it, and I said, tell me where my data and privacy concerns are and compare that to the GDPR and The US regulations in a table. And it was pretty awesome when I got back, and it took five minutes.
+
+I'm also gonna do my, my, chat GPT terms, and then I thought I would do my cell phone, my T Mobile family plan terms and services. I haven't analyzed either of those yet. Yeah. That's a pretty good one. Those are mine.
+
+Nope. That all sounds really good. I thought we had a good spread of or is it that per I guess, our services. What's the word I'm looking for? Oh my god.
+
+I'm blinking. A lot of different areas. Yeah. There there you go. You got there.
+
+I'll be very interested, Abby, to hear what ProctorU does with that data if they discard it, which I doubt it, but that would be pretty fast. I know you know. Not a lot about how it's your oh, yeah. It wouldn't be fine. Like, you could keep like, if you were in the EU and were using their services, you had rights, and otherwise, you kinda just didn't.
+
+Yeah. That's right. Oh. That's that that's what I saw with my Google Cloud service. Yeah.
+
+GDPR gives you lots of, you know, rights to be forgotten. No decisions can be made. No profiling. A lot of that. And there's very, very little in The US, which is kinda shocking.
+
+Yeah. For mine, I've my for e Res Life, their privacy notice is very short, which is very concerning to me. Because most privacy privacy notices I've seen are, like, pretty long and very extensive. They don't even mention the GDPR. Maybe it's because they're not they don't service Europe or anything like that.
+
+But looking at this like looking back at especially on how long they keep personal data, I they they keep it as long as you're an active contact, which I think is an alignment to what FERPA requires. So I think it's an alignment, but it's very interesting how short it is, and also there's like nothing, there's not that, it's not really as expensive as the ones for other places. Okay. Okay. Well, what else what else did we need to try to do?
+
+So next steps, like, earliest next steps says, make sure to upload a copy of all your pdfs into the github. You're also supposed to write something down in analysis to say that you looked over it. Mine is fully written by chat g b t. I put it at the top because I don't wanna read through 50 pages of licenses. Then in comparison, you're supposed to just put in something for an Excel sheet.
+
+I think it's just the name of the file, but it has to be in Excel for some reason. Not sure on that. I assume he just wants us to make it more tabular, which Excel does well. Yeah. But then after that, we're gonna have to write a paper.
+
+And I could just send a screenshot real quick so you can see it all. Okay. This is not terrible at all. No. It's like, what I'll probably do is we could do, like, for the overview, we could honestly just put it through chat g p t to say, like, make a short overview of all these.
+
+Yeah. Yeah. Right. And then I would say, like, we actually write the, like, key findings from comparison, regulatory recommendations lessons learned. Yeah.
+
+Okay. Okay. And so I guess that it gives each of us about a page and a quarter. Right? Is that, I'm guessing that the overview is gonna end up being, like, a page or two.
+
+Yeah. That makes sense. Because we have essentially 12 amongst us all. Yeah. Okay.
+
+No. And he did say in class last time that he was like, it this paper should have been recommended, like, seven pages or something. So I don't think he minds if we end up going over on an overview or something. Yeah. Okay.
+
+Okay. Perfect. Okay. So wanna split up the, like, four different sections remaining, or do we all kinda wanna write our own piece of it? I'm kind of thinking of writing my own piece because they're all gonna be different.
+
+Right? I couldn't Yeah. I agree. The the key the key findings from the comparison is the GDPR versus US. Correct?
+
+Yeah. Okay. Or at least whatever you thought was noteworthy. Okay. The regulatory compliance assessment.
+
+Regulatory compliance. Abby, I'm I'm not expecting you to go and always read our instructions for us and spell them out with puppets and crayons, but do you happen to remember what that really meant here? My guess, and this is a guess, like, what Miracle was saying with one of hers, how it had to conform to FERPA, or, like, I did Vanderbilt, so it has to comply to HIPAA. Okay. Okay.
+
+What regulatory compliance that agreement would fall under? What standards? Okay. I I think I understand. And then recommendations for improvement.
+
+What does that mean? Well, okay. I I I think I can make some improvements. I think I can make some improvements. The right to be forgotten.
+
+I mean, there's a whole bunch of stuff in The US that I'd kinda like to have included, right, that's not there. So I I think I can make that work. Yeah. Okay. So we're gonna everyone kinda write their own piece of this.
+
+The OneDrive link is in the GitHub. I'll also send a copy out over here in case you look at it here. And and then oh, what were you saying? Do do we wanna talk next week and see what we need to do to stitch it all together? Yeah.
+
+Yeah. Cool. We will we will need to meet next week at some point. Yeah. Oh, shit.
+
+Right? Yeah. I don't know if anyone next Tuesday is tax day. If anyone is running into that hard limit, I don't wanna Oh, I have no taxes to worry about, so I'm cool. That's funny.
+
+My fun fact, my job is actually a student, like, technically, like, a student job. So I get a stipend, so I don't have to technically report that on taxes. Nice. So I don't get a good refund if you do. What'd you say, Abby?
+
+You might get a good refund if you do because you'll have educational credit. I'm like, yeah. But also, like, for me, it's kind of like, okay, what am I reporting to the IRS? Essentially, because I have no tax money to pay them back or anything like that. Oh, no.
+
+It's pointless for me to file taxes, so I am free on text. That's a good feeling because it'd probably be the last time in your life you're free. That is so true. I know. It's it's yeah.
+
+Taxes are can I just say this? Taxes are a bitch. They are. Yeah. Watching my mom because my mom files her taxes differently because me and my because my parents are divorced, And so it's a battle of who claims the kids first.
+
+So she has to, like A wild It's a whole thing. Yeah. That's that's kinda crazy. Yeah. Yeah.
+
+It's a whole thing. She ends up having to fight my dad every single year. It's it's wild. Well, I guess we just be thankful for where you are where you are. I am.
+
+Okay. I know that sound very paternal, so forgive me. I'm just laughing. We No. You're good.
+
+No. IRS. My wife owns a small business. We fight with the IRS every year. It's just, like, maddening.
+
+But, Abby, thanks for that thanks for that moment of joy in our discussion. I don't think, any reason to think that none of that we can't meet again on Tuesday. Are we all free? I just wanted to make sure like, all we're all good. I already filed all nine.
+
+I just wanted to make sure no one was running into that day. Yeah. Yeah. Yeah. Well, that's that's the issue before I think of that.
+
+Okay. So we'll meet Tuesday at seven. We'll all have sort of our paper in hand, and then we'll figure out how to to to glue it together. Hopefully, we can do whatever, you know, twenty, thirty minutes. Right?
+
+Yeah. Okay. Is there anything else I need to talk about? I think I'm good. You too.
+
+Hey. The test is due today. The the module, whatever this is, test, I I I've been I I've studied more for this test. I've read more and studied more than I have any of the previous ones, and I feel, overwhelmingly overwhelmingly unprepared. I I'm just not taking it yet.
+
+I guess and, you know Wait. You copies. Hey. We might wanna end the recording. Yeah.
+
+Well, I wasn't I wasn't gonna ask.
